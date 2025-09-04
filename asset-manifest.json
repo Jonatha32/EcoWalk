@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EcoWalk/static/css/main.f3e0fa06.css",
+    "main.js": "/EcoWalk/static/js/main.505d2b6e.js",
+    "index.html": "/EcoWalk/index.html",
+    "main.f3e0fa06.css.map": "/EcoWalk/static/css/main.f3e0fa06.css.map",
+    "main.505d2b6e.js.map": "/EcoWalk/static/js/main.505d2b6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3e0fa06.css",
+    "static/js/main.505d2b6e.js"
+  ]
+}
