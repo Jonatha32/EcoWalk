@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container">
         <div className="header-content">
           <div className="logo">
-            <img src="/EcoWalk.png" alt="EcoWalk" className="logo-img" />
+            <img src={`${process.env.PUBLIC_URL}/EcoWalk.png`} alt="EcoWalk" className="logo-img" />
             <span className="logo-text">EcoWalk</span>
           </div>
           <nav className="nav">

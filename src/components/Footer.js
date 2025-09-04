@@ -16,7 +16,7 @@ const Footer = () => {
         <div className="footer-main">
           <div className="footer-brand">
             <div className="brand-logo">
-              <img src="/EcoWalk.png" alt="EcoWalk" className="footer-logo" />
+              <img src={`${process.env.PUBLIC_URL}/EcoWalk.png`} alt="EcoWalk" className="footer-logo" />
               <span className="brand-name">EcoWalk</span>
             </div>
             <p className="brand-tagline">Caminando hacia un futuro más sostenible</p>
